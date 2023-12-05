@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilyosjon Axmadaliyev
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)there I'm Frontend developer
 ============================================================================================================================================
 
-Frontend developer
-------------------
 
 * 🌍  I'm based in Uzbekistan
 * 🖥️  See my portfolio at [Link to website](https://ia-my-portfolio.netlify.app/)
